@@ -9,4 +9,6 @@ JOHAN HIDROBO
 Anthony Flores
 
 SEGUNDO PULL REQUEST:
+
+Anthony Flores
 Revelo-Listo
