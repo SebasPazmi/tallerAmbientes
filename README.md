@@ -1,6 +1,6 @@
 # tallerAmbientes
 PRIMER PULL REQUEST: 
-
+Jorge Revelo
 Paul Viracucha
 SEBASTIÁN PAZMIÑO
 Kevin Morales
