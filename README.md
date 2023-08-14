@@ -10,3 +10,7 @@ Anthony Flores
 
 SEGUNDO PULL REQUEST:
 LISTO-ESTEBANfLORES
+Anthony Flores
+Revelo-Listo
+JOHAN HIDROBO
+
