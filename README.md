@@ -1,6 +1,7 @@
 # tallerAmbientes
 PRIMER PULL REQUEST: 
 
+Kevin Morales
 Diego Quiroga
 JOHAN HIDROBO
 Anthony Flores
