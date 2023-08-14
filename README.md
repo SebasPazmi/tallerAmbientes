@@ -1,6 +1,7 @@
 # tallerAmbientes
 PRIMER PULL REQUEST: 
 
+JOHAN HIDROBO
 Anthony Flores
 
 SEGUNDO PULL REQUEST:
