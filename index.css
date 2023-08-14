@@ -1,4 +1,7 @@
 
+.m1 {
+    border: 207px;
+
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700&family=Yellowtail&display=swap');
 *{
     font-family: "Titillium Web";
@@ -390,5 +393,4 @@ footer {
     color: #fff;
     text-align: center;
     padding: 20px;
-
 }
