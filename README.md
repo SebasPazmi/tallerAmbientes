@@ -8,9 +8,9 @@ Diego Quiroga
 JOHAN HIDROBO
 Anthony Flores
 
-hidroboJ
 SEGUNDO PULL REQUEST:
-HIDROBO JOHAN
 
-SEGUNDO PULL REQUEST:
- main
+Anthony Flores
+Revelo-Listo
+JOHAN HIDROBO
+
